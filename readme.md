@@ -12,10 +12,13 @@ This project is currently under development.
 
 The project is MIT-licensed, however the code has not yet been made public. Most of the core engine is source-available if you inspect the bundled `xlpro` Python package, and `xlpro.xlam` Add-In file within the application.
 
+Latest version: v0.0.8.
+
 
 ## Release Notes
 
 Pending. Release notes will be published on the first public release.
+
 
 
 
